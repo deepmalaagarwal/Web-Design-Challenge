@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-<p>ACCESS MY WEBSITE HERE: <a href="https://sunilagarwal2007.github.io/Web-Design-Challenge/WebVisualizations/" rel="nofollow">https://sunilagarwal2007.github.io/Web-Design-Challenge/WebVisualizations/</a></p>
+<p>ACCESS MY WEBSITE HERE: <a href="https://deepmalaagarwal.github.io/Web-Design-Challenge/WebVisualizations/" rel="nofollow">https://deepmalaagarwal.github.io/Web-Design-Challenge/WebVisualizations//</a></p>
 
 ## Background
 
